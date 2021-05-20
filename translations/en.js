@@ -118,7 +118,7 @@ var en = {
 
 "statusEnd": "End of track",
 
-"selectedTrack": "Selected Track",
+"selectedTrack": "Currently playing: ",
 
 "alertDescribedVersion": "Using the audio described version of this video",
 
