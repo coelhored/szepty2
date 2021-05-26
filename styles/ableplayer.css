@@ -902,6 +902,7 @@ ul.able-popup {
   outline: none;
   padding-bottom: 25px; /* keep content above 16x16px drag icon */
   background-color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript {
 	position: relative; /* must be positioned for scrolling */
