@@ -902,6 +902,7 @@ ul.able-popup {
   outline: none;
   padding-bottom: 25px; /* keep content above 16x16px drag icon */
   background-color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript {
 	position: relative; /* must be positioned for scrolling */
@@ -918,19 +919,23 @@ ul.able-popup {
 .able-transcript-heading {
   font-size: 1.4em;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript-chapter-heading {
   font-size: 1.2em;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript div.able-transcript-desc {
 	background-color: #FEE;
 	border: thin solid #336;
 	font-style: italic;
 	padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript .able-unspoken {
 	font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript .able-hidden {
 	position: absolute !important;
@@ -943,6 +948,7 @@ ul.able-popup {
 .able-previous {
 	background: black !important;
 	font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .able-transcript span:hover,
 .able-transcript span:focus,
